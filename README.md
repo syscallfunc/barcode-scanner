@@ -7,8 +7,7 @@ A book scanner website designed for a barcode reader. Created for the Math Depar
 
 ## Authors
 
-- [@httpsMaximillion](https://www.github.com/httpsMaximillion)
-
+- [@syscallfunc](https://www.github.com/syscallfunc)
 
 ## Requirements
 
